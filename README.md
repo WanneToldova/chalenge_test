@@ -4,7 +4,7 @@ Hello :) Welcome to the Challenge Test API project!
 
 ## Project Structure
 
-### `/e2e`
+### `cypress/e2e`
 
 This folder contains end-to-end test files that validate various scenarios for the API.
 
