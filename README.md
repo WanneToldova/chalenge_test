@@ -13,11 +13,14 @@ This folder contains end-to-end test files that validate various scenarios for t
 - **`exBank_wanne.cy.js`**: General end-to-end tests covering various API endpoints and scenarios.
 
 ### `/api`
-
 This folder contains the API server setup and routing configurations.
 
 - **`server.js`**: The main server file that initializes and configures the API server.
+
+### `/api/'api/controllers'
 - **`/controllers`**: Includes files that define the business logic and handle requests for different API routes.
+
+### `/api/api/routers`
 - **`/routers`**: Includes files that define the API routes and their corresponding handlers, linking routes to controllers.
 
 ## Getting Started
