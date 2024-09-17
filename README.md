@@ -12,7 +12,7 @@ This folder contains end-to-end test files that validate various scenarios for t
 - **`exBanck_wanne_non_functional.cy.js`**: Non-functional tests, including performance and load testing.
 - **`exBank_wanne.cy.js`**: General end-to-end tests covering various API endpoints and scenarios.
 
-### `/api`
+### `api`
 This folder contains the API server setup and routing configurations.
 
 - **`server.js`**: The main server file that initializes and configures the API server.
